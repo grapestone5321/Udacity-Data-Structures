@@ -394,41 +394,39 @@ https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H
 
 
 
-- 1 [16:35] Data Structures & Algorithms #1 - What Are Data Structures?
+### 1 [16:35] What Are Data Structures?
 
 
-- 2 [20:20] An Overview of Arrays and Memory (Data Structures & Algorithms #2)
+### 2 [20:20] An Overview of Arrays and Memory 
 
 
-- 3 [19:51] Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)
+### 3 [19:51] Introduction to Classes and Objects - Part 1 
 
 
-- 4 [15:04] Introduction to Classes and Objects - Part 2 (Data Structures & Algorithms #4)
+### 4 [15:04] Introduction to Classes and Objects - Part 2 
 
-- 5 [18:47] Introduction to Linked Lists (Data Structures & Algorithms #5)
+### 5 [18:47] Introduction to Linked Lists 
 
-- 6 [22:37] Introduction to Recursion (Data Structures & Algorithms #6)
-
-
-- 7 [36:22] Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)
+### 6 [22:37] Introduction to Recursion 
 
 
-- 8 [3:36]  Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)
+### 7 [36:22] Introduction to Big O Notation and Time Complexity 
 
 
-- 9 [10:30] Introduction to Trees (Data Structures & Algorithms #9)
+### 8 [3:36]  Resources for Learning Data Structures and Algorithms 
 
 
-- 10 [14:23] Introduction to Binary Search (Data Structures & Algorithms #10)
+### 9 [10:30] Introduction to Trees 
+
+### 10 [14:23] Introduction to Binary Search 
 
 
-- 11 [24:19] A Complete Overview of Quicksort (Data Structures & Algorithms #11)
+### 11 [24:19] A Complete Overview of Quicksort 
 
 
-- 12 [16:30] Introduction to Stacks and Queues (Data Structures & Algorithms #12)
+### 12 [16:30] Introduction to Stacks and Queues
 
-
-- 13 [18:40] Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13)
+### 13 [18:40] Introduction to Hash Tables and Dictionaries
 
 
 
