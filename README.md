@@ -126,6 +126,24 @@ Feel free to post in the forums if you have questions!
       6. Coding
       7. Debugging
 
+-------
+
+# Papers
+
+
+## 1. Introduction to Algorithms: Third Edition
+http://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
+
+https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+
+
+## 2. Data Structures and Algorithms in Python
+http://index-of.es/Varios-2/Data%20Structures%20and%20Algorithms%20in%20Python.pdf
+
+
+## 3. Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+
 
 
 -------
@@ -339,5 +357,83 @@ https://www.youtube.com/watch?v=zg9ih6SVACc
 - 01(2:58:43) Shameless Plug
 
 -------
+
+## Data Structures Interview Questions | Data Structures And Algorithms | Java Training | Edureka
+https://www.youtube.com/watch?v=zg9ih6SVACc
+
+
+### edureka!
+
+
+This Edureka video on "Data Structure Interview Questions and Answers” will introduce you to all the essential and commonly asked interview questions based on various data structures and algorithms. 
+
+The following topics are covered in the Data Structures Interview Questions video:
+
+- 00:00:00 Introduction
+- 00:01:37 Why Do We need Data Structures?
+- 00:03:52 Data Structures Interview Questions & Answers
+- 00:17:00 - Questions on Array
+- 00:20:45 - Questions on Linked List
+- 00:26:58 - Questions on Stack
+- 00:34:15 - Questions on Queue
+- 00:38:23 - Questions on Tree
+- 00:45:44 - Questions on Graph
+- 00:47:36 -  Questions on Algorithms
+- 00:59:33 - Math puzzle using Data Structures
+
+
+
+-------
+
+## Data Structures and Algorithms
+https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H
+
+### CS Dojo
+
+
+
+
+
+- 1 16:35 Data Structures & Algorithms #1 - What Are Data Structures?
+
+
+- 2 20:20 An Overview of Arrays and Memory (Data Structures & Algorithms #2)
+
+
+- 3 19:51 Introduction to Classes and Objects - Part 1 (Data Structures & Algorithms #3)
+
+
+- 4 15:04 Introduction to Classes and Objects - Part 2 (Data Structures & Algorithms #4)
+
+- 5 18:47 Introduction to Linked Lists (Data Structures & Algorithms #5)
+
+- 6 Introduction to Recursion (Data Structures & Algorithms #6)
+
+
+- 7 36:22 Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)
+
+
+- 8 3:36  Resources for Learning Data Structures and Algorithms (Data Structures & Algorithms #8)
+
+
+-9 10:30 Introduction to Trees (Data Structures & Algorithms #9)
+
+
+- 10 14:23 Introduction to Binary Search (Data Structures & Algorithms #10)
+
+
+- 11 24:19 A Complete Overview of Quicksort (Data Structures & Algorithms #11)
+
+
+- 12 16:30 Introduction to Stacks and Queues (Data Structures & Algorithms #12)
+
+
+- 13 18:40 Introduction to Hash Tables and Dictionaries (Data Structures & Algorithms #13)
+
+
+
+-------
+
+
 
 
