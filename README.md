@@ -5,10 +5,15 @@ Udacity-Data-Structures
 
 -------
 
-## Udacity
+# Udacity
 
 ## Data Structures & Algorithms in Python
 https://classroom.udacity.com/courses/ud513
+
+
+
+
+
 
 I hope you're ready to get started! 
 
@@ -125,10 +130,13 @@ Feel free to post in the forums if you have questions!
 
 -------
 
-## YouTube
+# YouTube
 
 ## Data Structures - Full Course Using C and C++
 https://www.youtube.com/watch?v=B31LgI4Y4DQ
+
+### freeCodeCamp.org
+
 
 ### Course Contents
 ### data structures
@@ -181,6 +189,154 @@ https://www.youtube.com/watch?v=B31LgI4Y4DQ
 - 04(9:03:03) Graph Representation part 02 - Adjacency Matrix
 - 05(9:17:46) Graph Representation part 03 - Adjacency List
 
+
+-------
+
+## Data Structures - Computer Science Course for Beginners
+https://www.youtube.com/watch?v=zg9ih6SVACc
+
+
+
+### freeCodeCamp.org
+
+
+### Course Contents 
+### Introduction
+- 01(00:00) Introduction
+- 02(01:06) Timestamps
+- 03(01:23) Script and Visuals
+- 04(01:34) References + Research
+- 05(01:56) Questions
+- 06(02:12) Shameless Plug
+- 07(02:51) What are Data Structures?
+- 08(04:36) Series Overview
+
+### Measuring Efficiency with BigO Notation
+- 01(06:55) Measuring Efficiency with BigO Notation
+- 02(09:45) Time Complexity Equations
+- 03(11:13) The Meaning of BigO
+- 04(12:42) Why BigO?
+- 05(13:18) Quick Recap
+- 06(14:27) Types of Time Complexity Equations
+- 07(19:42) Final Note on Time Complexity Equations
+
+### The Array
+- 01(20:21) The Array
+- 02(20:58) Array Basics
+- 03(22:09) Array Names
+- 03(22:59) Parallel Arrays
+- 04(23:59) Array Types
+- 05(24:30) Array Size
+- 06(25:45) Creating Arrays
+- 07(26:11) Populate-First Arrays
+- 08(28:09) Populate-Later Arrays
+- 09(30:22) Numerical Indexes
+- 10(31:57) Replacing information in an Array
+- 11(32:42) 2-Dimensional Arrays
+- 12(35:01) Arrays as a Data Structure
+- 13(42:21) Pros and Cons
+
+### The ArrayList
+- 01(43:33) The ArrayList
+- 02(44:42) Structure of the ArrayList
+- 03(45:19) Initializing an ArrayList
+- 04(47:34) ArrayList Functionality
+- 05(49:30) ArrayList Methods
+- 06(50:26) Add Method
+- 07(53:57) Remove Method
+- 08(55:33) Get Method
+- 09(55:59) Set Method
+- 10(56:57) Clear Method
+- 11(57:30) toArray Method
+- 12(59:00) ArrayList as a Data Structure
+- 13(1:03:12) Comparing and Contrasting with Arrays
+
+### The Stack
+- 01(1:05:02) The Stack
+- 02(1:05:06) The Different types of Data Structures
+- 03(1:05:51) Random Access Data Structures
+- 04(1:06:10) Sequential Access Data Structures
+- 05(1:07:36) Stack Basics
+- 06(1:09:01) Common Stack Methods
+- 07(1:09:45) Push Method
+- 08(1:10:32) Pop Method
+- 09(1:11:46) Peek Method
+- 10(1:12:27) Contains Method
+- 11(1:13:23) Time Complexity Equations
+- 12(1:15:28) Uses for Stacks
+
+### The Queue
+- 01(1:18:01) The Queue
+- 02(1:18:51) Queue Basics
+- 03(1:20:44) Common Queue Methods
+- 04(1:21:13) Enqueue Method
+- 05(1:22:20) Dequeue Method
+- 06(1:23:08) Peek Method
+- 07(1:24:15) Contains Method
+- 08(1:25:05) Time Complexity Equations
+- 09(1:27:05) Common Queue Uses
+
+### The Linked List
+- 01(1:28:16) The Linked List
+- 02(1:31:37) LinkedList Visualization
+- 03(1:33:55) Adding and Removing Information
+- 04(1:41:28) Time Complexity Equations
+- 05(1:44:26) Uses for LinkedLists
+
+### The Doubly-LinkedList
+- 01(1:47:19) The Doubly-LinkedList
+- 02(1:48:44) Visualization
+- 03(1:50:56) Adding and Removing Information
+- 04(1:58:30) Time Complexity Equations
+- 05(1:59:06) Uses of a Doubly-LinkedList
+
+### The Dictionary
+- 01(2:00:21) The Dictionary
+- 02(2:01:15) Dictionary Basics
+- 03(2:02:00) Indexing Dictionaries
+- 04(2:02:40) Dictionary Properties
+
+### Hash Table Mini-Lesson
+- 01(2:05:53) Hash Table Mini-Lesson
+- 02(2:13:26) Time Complexity Equations
+
+### Trees
+- 01(2:16:39) Trees
+- 02(2:16:55) Introduction to Hierarchical Data
+- 03(2:18:54) Formal Background on the Tree
+- 04(2:20:03) Tree Terminology and Visualization
+- 05(2:25:08) Different types of Trees
+- 06(2:28:07) Uses for the Tree
+
+### Tries
+- 01(2:29:00) Tries
+- 02(2:29:50) Trie Basics
+- 03(2:30:41) Trie Visualization
+- 04(2:34:33) Flagging
+- 05(2:35:15) Uses for Tries
+
+### Heaps
+- 01(2:38:25) Heaps
+- 02(2:38:51) Heap Basics
+- 03(2:39:19) Min-Heaps
+- 04(2:40:07) Max-Heaps
+- 05(2:40:59) Building Heaps
+- 06(2:44:20) Deleting from Heaps
+- 07(2:46:00) Heap Implementations
+
+### Graphs
+- 01(2:48:15) Graphs
+- 02(2:49:25) Graph Basics
+- 03(2:52:04) Directed vs. Undirected Graphs
+- 04(2:53:45) Cyclic vs. Acyclic Graphs
+- 05(2:55:04) Weighted Graphs
+- 06(2:55:46) Types of Graphs
+
+### Conclusion
+- 01(2:58:20) Conclusion
+
+### Shameless Plug
+- 01(2:58:43) Shameless Plug
 
 -------
 
